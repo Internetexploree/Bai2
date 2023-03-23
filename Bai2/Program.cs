@@ -10,6 +10,7 @@ namespace Bai2
     {
         static void Main(string[] args)
         {
+            //Le Phu Qui
             Console.Write("Nhap chieu dai: ");
             float chieuDai = float.Parse(Console.ReadLine());
             Console.Write("Nhap chieu rong: ");
